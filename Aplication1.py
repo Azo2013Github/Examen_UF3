@@ -89,12 +89,12 @@ class getWrite:
 
 
 a = getWrite('file.txt')
-#a.write()
-#a.cheching()
-#a.cheching2()
-#a.addApplication()
-#a.listApplication()
-#a.modifiIdentification()
+a.write()
+a.cheching()
+a.cheching2()
+a.addApplication()
+a.listApplication()
+a.modifiIdentification()
 a.sumDownload()
 
 
